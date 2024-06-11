@@ -7,4 +7,4 @@
 
 # Primer cambio desde github
 
-# Cambio desde el repositorio local
+# Cambio desde el repositorio de GitHub
